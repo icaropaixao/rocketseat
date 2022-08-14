@@ -1,7 +1,4 @@
 
-
-
-
 console.log("icaro alcançou a ascensão")
 
 // para usar um comentário
