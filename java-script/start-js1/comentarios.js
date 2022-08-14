@@ -1,4 +1,7 @@
 
+
+
+
 console.log("icaro alcançou a ascensão")
 
 // para usar um comentário
@@ -7,4 +10,5 @@ console.log("icaro alcançou a ascensão")
 /*
 aqui tenho um comentário com mais de uma linha!!!
 */
+
 
