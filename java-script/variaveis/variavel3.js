@@ -11,7 +11,7 @@ console.log("> existe x antes do bloco?",x)
 
 /*
  tudo que esta dentro das chaves
- é um escopo local
+ é um escopo Local
 */
 {
     let x= 0
