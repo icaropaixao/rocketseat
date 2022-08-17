@@ -1,5 +1,5 @@
 // function expression
-// função dentro de uma variavel
+// função dentro de uma variavel 
 
 // parametros (parameters)
 const sum = function(number1, number2){
